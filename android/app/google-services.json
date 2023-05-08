@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "821675013212",
+    "project_id": "patata-b6623",
+    "storage_bucket": "patata-b6623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821675013212:android:bd5f0ebbf6a3d061556299",
+        "android_client_info": {
+          "package_name": "com.example.firebase2023"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821675013212-k7bcdd1t77edl4kqq0hdqvsjd2k35nig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBACeE_fBSYpsyqG6BeNnGFuI7Kd8FB_8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821675013212-k7bcdd1t77edl4kqq0hdqvsjd2k35nig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
